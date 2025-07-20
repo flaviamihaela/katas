@@ -31,16 +31,6 @@ Implements quality and sell updates for:
 
 - Legendary items (do not change)
 
-Rules Encoded
-- Quality is never negative.
-
-- Quality is never more than 50 (except for legendary items).
-
-- "Sulfuras" never decreases in quality or sell-in.
-
-- "Backstage passes" increase in quality as concert approaches, but drop to 0 after.
-
-- "Aged Brie" increases in quality as it ages.
 
 ### Run & build
 ```bash
